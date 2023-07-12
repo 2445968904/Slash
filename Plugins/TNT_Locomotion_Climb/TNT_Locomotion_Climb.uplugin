@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TNT_Locomotion_Climb",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "TNT",
+	"CreatedByURL": "https://space.bilibili.com/503328710?spm_id_from=333.788.0.0",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/962f8f7ae88940d8b548e1fcf65e48ba",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TNT_Locomotion_Climb",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
