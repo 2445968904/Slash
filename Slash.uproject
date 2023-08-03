@@ -4,11 +4,9 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "Slash",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
+		
+			
+		
 	],
 	"Plugins": [
 		{
