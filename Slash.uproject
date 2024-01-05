@@ -1,13 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{07E5A67F-44AE-57D2-7B2B-659508302652}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		
-			
-		
-	],
+	"Modules": [],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -34,11 +30,6 @@
 			"Name": "TNT_Locomotion_Climb",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/962f8f7ae88940d8b548e1fcf65e48ba"
-		},
-		{
-			"Name": "SwitchLanguage",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f6a1236f673345299f7fb888da78a2ba"
 		},
 		{
 			"Name": "DirGravity",
