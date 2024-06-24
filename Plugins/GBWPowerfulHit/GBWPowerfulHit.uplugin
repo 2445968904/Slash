@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GBWPowerfulHit",
+	"Description": "Deconstruct hit feedback. Create a sense of hit in the simplest way.",
+	"Category": "GBW",
+	"CreatedBy": "GanBowen",
+	"CreatedByURL": "",
+	"DocsURL": "https://www.youtube.com/playlist?list=PLCZ0WflcfPv4ETvNj4IsnDJU9Aws04cUn",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/68a19cc3b574484ab65c96a4b8e8c135",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GBWPowerfulHit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
